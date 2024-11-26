@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/rwrqhh0T/Screenshot-2024-11-26-123157.png" alt="project-screenshot" width="640" height="640/">
+<img src="[https://i.postimg.cc/rwrqhh0T/Screenshot-2024-11-26-123157.png](https://i.postimg.cc/rwrqhh0T/Screenshot-2024-11-26-123157.png)" alt="project-screenshot" width="640" height="640/">
 
   
   
