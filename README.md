@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[test](test)
+[https://social-media-component.vercel.app](https://social-media-component.vercel.app)
 
 <h2>Project Screenshots:</h2>
 
