@@ -37,7 +37,7 @@ git clone https://github.com/malothu-sagar/social-media-component.git
 cd social-media-component-main
 ```
 
-<p>3. Open the first_project.html in browser</p>
+<p>3. Open the index.html in browser</p>
 
   
   
